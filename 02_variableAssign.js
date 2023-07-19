@@ -13,3 +13,12 @@ var working = true;
 console.log(working);
 console.log(typeof working);
 
+var valueOftotal = "Hundred and seven" ;
+console.log(valueOftotal);
+console.log(typeof valueOftotal);
+
+var valueOftotal = 108;
+console.log(typeof valueOftotal);
+
+
+
