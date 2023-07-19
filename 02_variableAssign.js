@@ -18,6 +18,7 @@ console.log(valueOftotal);
 console.log(typeof valueOftotal);
 
 var valueOftotal = 108;
+console.log(valueOftotal);
 console.log(typeof valueOftotal);
 
 
